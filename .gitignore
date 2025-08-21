@@ -1,0 +1,28 @@
+.bash_history
+.python_history
+.cache/
+.pytest_cache
+__pycache__
+.gitconfig
+*.log
+*.edi
+# Ignore PDF files in the root directory
+/*.pdf
+
+# Do NOT ignore PDFs in tests/fixtures
+!tests/fixtures/*.pdf
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
