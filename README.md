@@ -1,4 +1,5 @@
 # PITA
+[![codecov](https://codecov.io/github/dfulmer/pita/graph/badge.svg?token=IJU02ATV4X)](https://codecov.io/github/dfulmer/pita)
 
 PITA is software that converts vendor invoice PDFs into machine-readable EDI files.
 
