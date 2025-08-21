@@ -1,4 +1,4 @@
-# pita-python-oo-2025-08-01
+# PITA
 
 PITA is software that converts vendor invoice PDFs into machine-readable EDI files.
 
